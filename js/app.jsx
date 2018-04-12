@@ -1,3 +1,11 @@
+import React, { Component } from 'react';
+
+import './js/app.jsx';
+
+
+
+
+
 function MojKomponent({ title="Modal", content="Modal" }) {
   return (
     <div>
